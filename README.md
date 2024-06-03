@@ -8,6 +8,7 @@ This program is a simple contract written in Solidity, a programming language us
 1. creates a token, an abbrevation and the total supply and stores it.
 2. Maps the addresses to their token balances.
 3. Functions for minting the token and burning the existing tokens.
+ 
 This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
 
 ## Getting Started
